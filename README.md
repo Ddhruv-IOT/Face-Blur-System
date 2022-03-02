@@ -3,6 +3,7 @@
 ## ℹ️ℹ️ Overview
 A simple python code to detect a human face and blur it.
 <br/> It has been made using OpenCV.
+<br/> It can be used to hide face or sensor it.
 
 ## ⚒️⚒️ Tools and Technologies Used:
 
