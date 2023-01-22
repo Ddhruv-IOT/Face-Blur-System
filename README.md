@@ -1,30 +1,26 @@
 # Face Blur System
 
 ## ℹ️ℹ️ Overview
-A simple python code to detect a human face and blur it.
-<br/> It has been made using OpenCV.
-<br/> It can be used to hide face or sensor it.
+A simple python script to capture live video as input, detect human faces, blur them and display the output with blurred or censored faces. 
+<br/> The real-time human face detection and blurring was performed using the OpenCV module.
 
 ## ⚒️⚒️ Tools and Technologies Used:
 
 ### 💿💿 Python Modules used:
-- OpenCV for detecting face and blurring it.
+- Open CV for detecting face and blurring it.
 
-### 💿💿 Softwares Used 
+### 💿💿 Software Used 
 - Spyder 5.0.5
-- CMD
 - Git Bash 
 
-### 💽💽 OS Used:
+### 💽💽 OS Used
 - Windows 10 
 
 ## ✔️✔️ Features  
-- Detect the human face and blur it.
+- Detect a human face and blur it.
  
-## 📽️📽️ Demo Video: 
-In case the live demo is not working.
-*coming soon* 
-
+## 📽️📽️ Demo Video
+<p align="center"> <img src="https://github.com/Ddhruv-IOT/Face-Blur-System/blob/main/demo/demo.gif" alt="animated" /> </p>
 
 # 🙏🙏 Thank you
 - All suggestions are warmly welcomed.
