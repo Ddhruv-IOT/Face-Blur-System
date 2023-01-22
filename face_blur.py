@@ -4,6 +4,7 @@ Created on Sun Dec 12 19:34:40 2021
 
 @author: ACER
 """
+
 import cv2
 
 stream = cv2.VideoCapture(1)
